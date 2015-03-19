@@ -1,0 +1,45 @@
+# Copyright (C) 2015 Nicola Mustone
+# This file is distributed under the same license as the WooCommerce Order Search by Transaction ID package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Order Search by Transaction ID 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/PinchOfCode/woocommerce-order-"
+"search-transaction/issues\n"
+"POT-Creation-Date: 2015-03-16 11:35:18+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-03-16 12:37+0100\n"
+"Language-Team: Nicola Mustone <mail@nicolamustone.it>\n"
+"X-Generator: Poedit 1.7.4\n"
+"Last-Translator: Nicola Mustone <mustone.nicola@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: woocommerce-order-search-transaction.php:29
+msgid ""
+"WooCommerce Order Search by Transaction ID requires WooCommerce in order to "
+"work properly. <a href=\"%s\" target=\"_blank\">Please install WooCommerce</"
+"a>."
+msgstr ""
+"WooCommerce Order Search by Transaction ID necessita di WooCommerce per "
+"funzionare correttamente. <a href=\"%s\" target=\"_blank\">Per favore "
+"installa WooCommerce</a>."
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Order Search by Transaction ID"
+msgstr "WooCommerce Order Search by Transaction ID"
+
+#. Author URI of the plugin/theme
+msgid "http://nicolamustone.it/"
+msgstr "http://nicolamustone.it/"
+
+#. Description of the plugin/theme
+msgid "Allows to search orders by Transaction ID in WooCommerce"
+msgstr ""
+"Permette di cercare gli ordini in WooCommerce tramite l'ID della Transazione"
+
+#. Author of the plugin/theme
+msgid "Nicola Mustone"
+msgstr "Nicola Mustone"
